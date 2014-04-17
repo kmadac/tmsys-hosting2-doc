@@ -6,7 +6,7 @@ Documentation is written in Sphinx.
 Installation
 ------------
 
-    git clone ...
+    git clone https://github.com/kmadac/tmsys-hosting2-doc.git
   
 Create virtual environment:
 
