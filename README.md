@@ -6,14 +6,14 @@ Documentation is written in Sphinx.
 Installation
 ------------
 
-  git clone ...
+    git clone ...
   
 Create virtual environment:
 
-  virtualenv Sphinx
-  . Sphinx/bin/activate
-  pip install Sphinx
-  pip install sphinx_bootstrap_theme
+    virtualenv Sphinx
+    . Sphinx/bin/activate
+    pip install Sphinx
+    pip install sphinx_bootstrap_theme
 
 
 
